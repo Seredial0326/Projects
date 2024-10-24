@@ -1,0 +1,18 @@
+Inventario
+Películas
+Nombre: About Time, Cantidad: 997, Duración (mins): 120, Estudio: Universal, Clasificación: B
+Nombre: Las ventajas de ser invisible, Cantidad: 16, Duración (mins): 135, Estudio: Universal, Clasificación: B
+Nombre: Back to the Future I, Cantidad: 0, Duración (mins): 140, Estudio: Universal, Clasificación: B
+Nombre: Guardianes de la galaxia vol. 2, Cantidad: 18, Duración (mins): 140, Estudio: Marvel/Disney, Clasificación: B
+Nombre: Terminator 2, Cantidad: 14, Duración (mins): 145, Estudio: Paramount, Clasificación: B15
+Nombre: Joker, Cantidad: 9, Duración (mins): 140, Estudio: Warner/DC, Clasificación: C
+Canciones
+Nombre: Il Mondo, Cantidad: 29, Artista: Jimmy Fontana, Duración (s): 130, Oyentes mensuales: 4000
+Nombre: Alone Again (Naturally), Cantidad: 15, Artista: Gilbert O Sullivan, Duración (s): 130, Oyentes mensuales: 10000
+Nombre: If I fell, Cantidad: 8, Artista: The Beatles, Duración (s): 100, Oyentes mensuales: 350
+Nombre: Lo que no fue no sera, Cantidad: 6, Artista: José María Napoleón, Duración (s): 190, Oyentes mensuales: 1000
+Nombre: The point of no return, Cantidad: 1, Artista: Gerad Butler Amy Rossum, Duración (s): 190, Oyentes mensuales: 100
+Videojuegos
+Nombre: Mario Kart Wii, Cantidad: 9, Duración (hrs): 8, Jugadores: 4, Plataforma: Nintendo
+Nombre: Forza Horizon, Cantidad: 1, Duración (hrs): 10, Jugadores: 1, Plataforma: Xbox
+Nombre: New Super Mario Bros, Cantidad: 1, Duración (hrs): 12, Jugadores: 4, Plataforma: Nintendo
